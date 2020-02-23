@@ -1,0 +1,40 @@
+#header{
+    padding: 150px;
+    background: #ffffffff url(../image/fact-bg.jpg);
+    background-repeat: no-repeat;
+    
+}
+img{ 
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin-left: 45%;
+    margin-top: -50px;
+
+
+}
+h1{
+    text-align: center;
+    color: #ffffffff;
+    font-size: 30px;
+    
+}
+#about{
+    padding: 50px;
+    text-align:center;
+    font-size:15px;
+    font-style: inherit;
+    margin-top: 10px;
+    
+
+
+}
+.name{
+    font-style: italic;
+    font-size: 15px;
+    margin-left: 45%;
+}
+.me{
+    margin-left: -32%;
+    margin-top:20px;
+}
